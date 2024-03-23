@@ -5,7 +5,7 @@ Each paper is listed with the paper title/Admission Conference/release date/pape
 
 # For reference（GREEN）:
 - LLMRec: Large Language Models with Graph Augmentation for Recommendation [[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635853)]  
-  [WSDM2024] [Mar-24]  
+  WSDM2024 Mar-24  
 - Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models   [[PDF](https://arxiv.org/pdf/2402.08670.pdf)]  
   arxiv Feb-24  
 - Can Small Language Models be Good Reasoners for Sequential Recommendation [[PDF](https://arxiv.org/pdf/2403.04260.pdf)]  
